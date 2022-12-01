@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BikeFactory.Business.Bike">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAABAAAAAAEAgAAAQYAAAAIAAAgQAgAgAAAAAA=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFactory.Business.MountainBike">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAACAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BikeFactory.Business.RoadBikes">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAIAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>RoadBikes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
